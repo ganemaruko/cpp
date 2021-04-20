@@ -3,7 +3,7 @@
 #include <cstdio>
 #include <iostream>
 
-int main()
+int cout_iter()
 {
     std::stack<int> stack;
     for (std::stack<int> dump = stack; !dump.empty(); dump.pop())

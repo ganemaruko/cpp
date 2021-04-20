@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.Rmd": "markdown",
-        "stack": "cpp"
+        "stack": "cpp",
+        "cstdio": "cpp"
     }
 }
